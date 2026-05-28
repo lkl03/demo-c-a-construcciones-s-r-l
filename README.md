@@ -1,2 +1,7 @@
-# demo-c-a-construcciones-s-r-l
-Demo web para C&amp;A Construcciones S.r.l — diseñada por eterlab.
+# C&A Construcciones S.r.l
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
